@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "A new start",
+      "body": "John was a young man who had just graduated from college. He was excited to start his new job at a tech company in San Francisco. On his first day, he met his new boss, who was very friendly and welcoming. John was given a tour of the office and introduced to his new colleagues. He was impressed by the modern design of the office and the high-tech equipment. John was eager to start working and make a good impression on his new team. He spent the first few days learning about the company’s products and services and getting to know his colleagues. John was excited to be part of such a dynamic and innovative company and looked forward to a bright future there.",
+      "author": "Mark",
+      "id": 0
+    },
+    {
+      "title": "The child prodigy",
+      "body": "Sarah was a talented musician who had been playing the piano since she was a child. She had always dreamed of performing in front of a large audience and sharing her love of music with others. One day, Sarah received an invitation to perform at a prestigious music festival in New York City. She was thrilled at the opportunity and spent months practicing for the performance. When the day finally arrived, Sarah was nervous but excited. She walked out onto the stage and began to play. The audience was captivated by her performance and gave her a standing ovation when she finished. Sarah was overjoyed and knew that this was just the beginning of her career as a musician.",
+      "author": "John",
+      "id": 1
+    },
+    {
+      "title": "A new culture",
+      "body": "Mark was an avid traveler who had visited many countries around the world. He loved to explore new cultures and try new foods. One summer, Mark decided to take a trip to Japan. He was fascinated by the country’s rich history and unique customs. Mark spent his days visiting temples, sampling local cuisine, and learning about Japanese art and culture. He was particularly impressed by the beauty of the cherry blossoms, which were in full bloom during his visit. Mark made many new friends during his trip and was sad to leave when it was over. He knew that he would always cherish the memories of his time in Japan.",
+      "author": "Sarah",
+      "id": 2
+    }
+  ]
+}
